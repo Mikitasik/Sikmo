@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#193354"/><stop offset="1" stop-color="#274c78"/></linearGradient></defs>
+  <rect width="900" height="520" rx="32" fill="url(#bg)"/>
+  <g stroke="#91caff" stroke-width="5" fill="none" opacity=".8"><path d="M170 120h150v80h120v-60h190"/><path d="M190 390h150v-90h150v90h190"/><path d="M290 200v-80m120 80v-40m220 20v-60m-80 270v-90"/></g>
+  <g fill="#8ec5ff"><circle cx="170" cy="120" r="12"/><circle cx="640" cy="140" r="12"/><circle cx="190" cy="390" r="12"/><circle cx="700" cy="390" r="12"/></g>
+  <rect x="330" y="165" width="240" height="190" rx="24" fill="#101827" stroke="#8ec5ff" stroke-width="8"/>
+  <text x="450" y="245" text-anchor="middle" fill="#8ec5ff" font-family="Arial,sans-serif" font-size="62" font-weight="bold">&lt;/&gt;</text>
+  <text x="450" y="305" text-anchor="middle" fill="#d8eaff" font-family="Arial,sans-serif" font-size="27">HTML • CSS • CODE</text>
+</svg>
